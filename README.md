@@ -28,7 +28,8 @@ Compared with the existing Meson Network mining mechanism, how to improve the mi
 > You can reference your meson dashboard for your score calculation.
 > 
 > At present the reward ratio is 0.5070token/score:
->The reward ratio drops to a stable value (0.3500token/score) after 12 months;
+> The reward ratio drops to a stable value (0.3500token/score) after 12 months;
+> 
 > [The curve shows the process]
 >
 > ![img](https://raw.githubusercontent.com/daqnext/MIP-0/main/1901629428383_.pic_hd.jpg "Token per score")
