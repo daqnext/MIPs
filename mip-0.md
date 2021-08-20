@@ -1,10 +1,10 @@
 ---
 eip: 0
-title: ming model modification
-author: meson
+title: Mining Model Modification in Testnet
+author: Bruce
 type: Standards Track
 category: token
-status: Final
+status: Draft
 created: 2021-08-20
 ---
 
