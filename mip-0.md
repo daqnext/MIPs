@@ -32,4 +32,4 @@ Compared with the existing Meson Network mining mechanism, how to improve the mi
 > 
 > [The curve shows the process]
 >
-> ![img](https://raw.githubusercontent.com/daqnext/MIP-0/main/1901629428383_.pic_hd.jpg "Token per score")
+> ![img](./img/1901629428383_.pic_hd.jpg "Token per score")
