@@ -9,7 +9,7 @@ created: 2021-08-20
 ---
 
 ## MIP-0
-In the past several months the node number has increased about 10 times  and more miners are complaining the fixed reward of daily mining.
+<!-- In the past several months the node number has increased about 10 times  and more miners are complaining the fixed reward of daily mining.
 Currently we take a poll over the daily reward mechanism of test-net token for all miners.
 
 ## 
@@ -20,7 +20,7 @@ Compared with the existing Meson Network mining mechanism, how to improve the mi
 * Change in fixed multiple
 > - 3 Times
 > - 5 Times
-> - 10 Times
+> - 10 Times -->
 
 * Change with dynamic model
 
