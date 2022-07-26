@@ -1,5 +1,5 @@
 ---
-eip: 0
+mip: 0
 title: Mining Model Modification in Testnet
 author: Bruce
 type: Standards Track
@@ -32,4 +32,4 @@ Compared with the existing Meson Network mining mechanism, how to improve the mi
 > 
 > [The curve shows the process]
 >
-> ![img](./img/1901629428383_.pic_hd.jpg "Token per score")
+> ![img](./img/mip-0/token-per-score.jpg "Token per score")
