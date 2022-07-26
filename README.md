@@ -30,6 +30,5 @@ MIPs are classified into three categories:
 
 |MIP #   | Title  | Type  | Author  | Status  |
 |---|---|---|---|---|
-|[0](https://github.com/daqnext/MIPs/blob/main/mip-0.md)   | Mining Model Modification in Testnet
-  | MIP  | @haihongS  | Draft  |
+|[0](https://github.com/daqnext/MIPs/blob/main/mip-0.md)   | Mining Model Modification in Testnet  | MIP  | @haihongS  | Draft  |
 |[1](https://github.com/daqnext/MIPs/blob/main/mip-1.md)   | MIP Purpose and Guidelines  | MIP | @bitruss   |Draft   |
